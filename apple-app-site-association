@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["LN829GZZCR.com.sydertec.pomooffice"],
+        "components": [
+          { "/": "/invite*", "comment": "Invite links: /invite?code=XXXX" }
+        ]
+      }
+    ]
+  }
+}
